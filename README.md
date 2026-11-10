@@ -55,6 +55,33 @@ Desempenho do modelo final (menor = melhor):
 
 O ganho é real, mas modesto. Isso é esperado no futebol, um esporte de poucos gols, e é exatamente o que motiva a próxima versão com xG.
 
+## Validação fora da amostra: previsto x aconteceu
+
+As previsões jogo a jogo em `outputs/previsoes_jogos.csv` foram geradas com os placares até 20/09/2026 (28ª rodada) e ficaram congeladas no repositório. Depois disso foram disputados 62 jogos: as rodadas 29 a 34 e 2 jogos adiados da 21ª. O modelo nunca viu nenhum deles, e o teste `tests/test_validacao.py` confere que todos são posteriores ao corte. Rodar o modelo de novo sobre o mesmo retrato reproduz as previsões exatamente.
+
+| 62 jogos após o corte | Log loss | Brier | Acerto do favorito | Placar exato |
+|---|---|---|---|---|
+| **Modelo Dixon-Coles** | **0,931** | **0,549** | **62,9%** | 14,5% |
+| Frequência do treino | 1,005 | 0,600 | 56,5% | – |
+| Uniforme (1/3) | 1,099 | 0,667 | 56,5% | – |
+
+- **O modelo bateu as duas referências em todas as métricas.** Em seis das sete rodadas, a log loss ficou abaixo do palpite uniforme. A exceção são os 2 jogos adiados da 21ª, que ficaram no nível do palpite uniforme.
+- **O desempenho foi melhor do que no backtest** (log loss 1,064). Com só 62 jogos, parte disso é sorte. A conclusão segura é que o modelo continuou acima das referências fora da amostra.
+
+![Probabilidade dada ao resultado real](outputs/validacao_jogos.png)
+
+![Calibração](outputs/validacao_calibracao.png)
+
+**Calibração:** os eventos com probabilidade prevista entre 40% e 60% aconteceram mais do que o previsto (53% e 80%). Os eventos com menos de 30% aconteceram menos (7% e 18%). O modelo foi **cauteloso demais**: os favoritos ganharam mais do que ele dizia. A penalidade ridge e o peso menor para goleadas puxam as forças para a média, e esse é o efeito esperado. Com 62 jogos, a amostra ainda é pequena para mexer nesses parâmetros.
+
+![Pontos esperados x reais](outputs/validacao_pontos.png)
+
+**Pontos por clube:** a correlação entre os pontos esperados e os conquistados nesses 62 jogos foi de 0,66. As maiores surpresas positivas foram Cruzeiro (+6), Palmeiras (+5) e Flamengo (+4,5). As negativas foram Athletico-PR (−4,8) e Coritiba (−3,7).
+
+**Rebaixamento:** os quatro clubes com maior risco de queda no corte eram Chapecoense (99,9%), Remo (96,5%), Internacional (59,1%) e Grêmio (57,7%). Após a 34ª rodada, três deles estão no Z4 (Chapecoense, Remo e Grêmio). O Internacional está em 16º, empatado em pontos com o Vitória, e o Corinthians (17,4% no corte) ocupa a 17ª posição.
+
+Placares após o corte: [ValorFinal](https://valorfinal.com.br/brasileirao/2026) (dados do football-data.org, CC BY 4.0), conferidos com a imprensa em jogos de amostra, porque a fonte aberta original parou de ser atualizada em 20/09. Código em `src/brasileirao/validacao_fora_amostra.py`; números em `outputs/validacao_*.csv`.
+
 ## Como rodar
 
 ```bash
@@ -65,6 +92,7 @@ pip install -r requirements.txt
 pip install -e .
 
 python -m brasileirao.pipeline --atualizar   # baixa dados, roda tudo e grava outputs/
+python -m brasileirao.validacao_fora_amostra # compara as previsões congeladas com os placares pós-corte
 pytest                                       # testes
 jupyter notebook notebooks/analise.ipynb     # análise completa
 ```
@@ -80,7 +108,7 @@ Saídas em `outputs/`: probabilidades por clube, previsões jogo a jogo, forças
 ## Próximos passos
 
 - Trocar gols por **xG e grandes chances por mando**, métricas menos ruidosas.
-- Curva de calibração (as partidas com 60% de chance acontecem em ~60% das vezes?).
+- Ajustar a força da penalidade ridge, já que a validação fora da amostra mostrou um modelo cauteloso demais com os favoritos.
 - Testar descanso entre jogos e desfalques com o mesmo backtest.
 
 ## Sobre o uso de IA
