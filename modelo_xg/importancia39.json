@@ -1,0 +1,134 @@
+{
+ "jogo": [
+  "atletico-mg",
+  "corinthians"
+ ],
+ "imp": [
+  {
+   "rodada": 36,
+   "mandante": "Atlético-MG",
+   "visitante": "Corinthians",
+   "indice": 25.6
+  },
+  {
+   "rodada": 37,
+   "mandante": "Atlético-MG",
+   "visitante": "Vasco",
+   "indice": 0.9
+  },
+  {
+   "rodada": 37,
+   "mandante": "Botafogo",
+   "visitante": "Bahia",
+   "indice": 12.8
+  },
+  {
+   "rodada": 37,
+   "mandante": "Chapecoense",
+   "visitante": "Palmeiras",
+   "indice": 0.6
+  },
+  {
+   "rodada": 37,
+   "mandante": "Corinthians",
+   "visitante": "Grêmio",
+   "indice": 42.3
+  },
+  {
+   "rodada": 37,
+   "mandante": "Coritiba",
+   "visitante": "Flamengo",
+   "indice": 0.5
+  },
+  {
+   "rodada": 37,
+   "mandante": "Fluminense",
+   "visitante": "Cruzeiro",
+   "indice": 0.9
+  },
+  {
+   "rodada": 37,
+   "mandante": "Internacional",
+   "visitante": "Bragantino",
+   "indice": 8.1
+  },
+  {
+   "rodada": 37,
+   "mandante": "Mirassol",
+   "visitante": "Athletico-PR",
+   "indice": 37.8
+  },
+  {
+   "rodada": 37,
+   "mandante": "São Paulo",
+   "visitante": "Remo",
+   "indice": 0.5
+  },
+  {
+   "rodada": 37,
+   "mandante": "Vitória",
+   "visitante": "Santos",
+   "indice": 1.3
+  },
+  {
+   "rodada": 38,
+   "mandante": "Athletico-PR",
+   "visitante": "São Paulo",
+   "indice": 0.9
+  },
+  {
+   "rodada": 38,
+   "mandante": "Bahia",
+   "visitante": "Atlético-MG",
+   "indice": 0.9
+  },
+  {
+   "rodada": 38,
+   "mandante": "Bragantino",
+   "visitante": "Fluminense",
+   "indice": 0.5
+  },
+  {
+   "rodada": 38,
+   "mandante": "Cruzeiro",
+   "visitante": "Internacional",
+   "indice": 11.7
+  },
+  {
+   "rodada": 38,
+   "mandante": "Flamengo",
+   "visitante": "Chapecoense",
+   "indice": 0.2
+  },
+  {
+   "rodada": 38,
+   "mandante": "Grêmio",
+   "visitante": "Mirassol",
+   "indice": 54.2
+  },
+  {
+   "rodada": 38,
+   "mandante": "Palmeiras",
+   "visitante": "Coritiba",
+   "indice": 0.6
+  },
+  {
+   "rodada": 38,
+   "mandante": "Remo",
+   "visitante": "Corinthians",
+   "indice": 29.4
+  },
+  {
+   "rodada": 38,
+   "mandante": "Santos",
+   "visitante": "Botafogo",
+   "indice": 7.0
+  },
+  {
+   "rodada": 38,
+   "mandante": "Vasco",
+   "visitante": "Vitória",
+   "indice": 0.2
+  }
+ ]
+}

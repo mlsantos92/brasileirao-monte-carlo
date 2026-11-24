@@ -1,0 +1,235 @@
+Fluminense|John Kennedy;26;8;4.93
+Grêmio|Tetê;26;2;2.43
+Fluminense|Martinelli;18;0;0.70
+Grêmio|Carlos Vinícius;42;9;6.98
+Fluminense|Kevin Serna;28;4;5.92
+Fluminense|Agustín Canobbio;31;4;3.56
+Fluminense|Luciano Acosta;27;4;2.90
+Grêmio|Cristian Pavón;23;3;1.13
+Grêmio|Gustavo Martins;17;3;2.44
+Grêmio|José Enamorado;19;0;1.53
+Cruzeiro|Matheus Pereira;70;8;8.39
+Botafogo|Arthur Cabral;54;7;4.69
+Cruzeiro|Kaio Jorge;49;6;7.07
+Cruzeiro|Kaiki;17;0;0.87
+Cruzeiro|Fabrício Bruno;13;1;0.38
+Cruzeiro|Wanderson;15;2;1.13
+Botafogo|Danilo;51;9;3.91
+Cruzeiro|Gérson;22;0;2.09
+Cruzeiro|Keny Arroyo;52;4;2.30
+Botafogo|Álvaro Montoro;23;1;1.42
+Botafogo|Matheus Martins;43;4;2.88
+Flamengo|Jorge Carrascal;39;6;5.22
+Flamengo|Léo Ortiz;14;1;1.48
+Flamengo|Gonzalo Plata;33;4;3.58
+São Paulo|Luciano;55;7;6.82
+São Paulo|Marcos Antônio;17;0;1.13
+Flamengo|Evertton Araújo;14;0;0.66
+Flamengo|Pedro;62;14;14.25
+São Paulo|Damián Bobadilla;19;0;1.53
+Flamengo|Bruno Henrique;17;2;1.84
+Flamengo|Giorgian De Arrascaeta;49;3;6.02
+Bahia|Ademir;27;1;2.38
+Bahia|Luciano Juba;27;6;1.22
+Corinthians|Breno Bidon;21;2;1.70
+Corinthians|Yuri Alberto;42;2;4.30
+Corinthians|Rodrigo Garro;45;3;3.40
+Bahia|Jean Lucas;28;4;3.65
+Corinthians|Matheuzinho;21;1;1.26
+Bahia|Erick Pulga;45;3;4.06
+Corinthians|Bidu;26;3;1.09
+Corinthians|Memphis Depay;19;1;2.68
+Corinthians|Raniele;20;2;1.12
+Corinthians|Gustavo Henrique;22;4;2.76
+Bahia|David Duarte;21;2;1.18
+Corinthians|Vitinho;13;0;1.00
+Bahia|Cristian Olivera;37;1;2.98
+Vasco da Gama|Andrés Gómez;81;5;4.20
+Mirassol|Alesson;38;0;3.11
+Mirassol|Neto;13;0;0.41
+Vasco da Gama|Johan Rojas;31;0;1.58
+Mirassol|Negueba;19;2;0.70
+Vasco da Gama|Philippe Coutinho;17;1;1.31
+Mirassol|Igor Formiga;29;4;3.07
+Mirassol|Willian Machado;14;1;0.55
+Mirassol|Eduardo;27;6;3.61
+Mirassol|Reinaldo;39;0;1.58
+Mirassol|Nathan Fogaça;17;2;3.36
+Atlético-MG|Dudu;14;2;1.77
+Palmeiras|José López;51;8;4.05
+Atlético-MG|Hulk;20;1;1.77
+Palmeiras|Mauricio;42;6;5.26
+Palmeiras|Andreas Pereira;29;1;1.75
+Atlético-MG|Renan Lodi;38;1;1.88
+Palmeiras|Allan;26;2;1.63
+Atlético-MG|Victor Hugo;31;3;3.69
+Palmeiras|Ramón Sosa;22;3;1.78
+Palmeiras|Gustavo Gómez;21;3;2.06
+Palmeiras|Vitor Roque;29;2;2.48
+Atlético-MG|Gustavo Scarpa;17;1;0.65
+Atlético-MG|Tomás Cuello;55;5;5.84
+Atlético-MG|Reinier;25;4;4.09
+Athletico Paranaense|Stiven Mendoza;33;4;1.86
+Internacional|Bruno Gomes;20;0;0.97
+Internacional|Alexandro Bernabéi;55;5;3.53
+Athletico Paranaense|Kevin Viveros;65;15;12.47
+Internacional|Rafael Borré;28;2;5.57
+Internacional|Vitinho;49;4;4.87
+Internacional|Bruno Henrique;24;1;1.83
+Internacional|Alan Patrick;31;4;2.95
+Internacional|Johan Carbonero;55;6;5.63
+Internacional|Braian Aguirre;26;1;1.27
+Remo|Patrick de Paula;18;0;1.32
+Remo|Alef Manga;45;5;3.63
+Vitória|Renato Kayzer;22;4;3.00
+Vitória|Matheuzinho;27;3;1.74
+Remo|Yago Pikachu;26;3;2.02
+Vitória|Erick;32;4;1.84
+Vitória|Gabriel Baralhas;18;2;1.77
+Vitória|Jamerson;15;0;0.44
+Remo|Patrick;18;0;0.82
+Chapecoense|Giovanni Augusto;17;2;0.71
+Santos|Gabriel Menino;17;1;0.86
+Chapecoense|Marcinho;30;5;2.28
+Santos|Álvaro Barreal;45;4;2.65
+Chapecoense|Italo;13;0;1.25
+Chapecoense|Jean;14;2;1.25
+Santos|Benjamín Rollheiser;25;2;1.91
+Flamengo|Erick Pulgar;17;2;0.75
+Internacional|Paulinho;13;0;0.77
+Flamengo|Lucas Paquetá;38;6;2.73
+Flamengo|Léo Pereira;19;1;1.43
+Vasco da Gama|Brenner;15;0;3.35
+Vasco da Gama|Cauan Barros;16;1;0.93
+Vasco da Gama|Nuno Moreira;23;1;2.31
+Vasco da Gama|José Rodriguez;38;2;3.25
+Chapecoense|Maurício Garcez;29;3;3.17
+Vasco da Gama|Robert Renan;14;1;1.08
+Vasco da Gama|David;22;4;3.04
+Santos|Gabriel Barbosa;66;11;9.88
+São Paulo|Jonathan Calleri;48;7;7.26
+Palmeiras|Murilo;15;1;1.43
+Vitória|Luan Cândido;14;0;1.28
+RB Bragantino|Gustavo Marques;20;1;1.56
+RB Bragantino|Henry Mosquera;32;0;1.58
+RB Bragantino|Gabriel;16;1;0.44
+Atlético-MG|Bernard;25;5;3.42
+RB Bragantino|Lucas Barbosa;66;6;6.13
+Coritiba|Pedro Rocha;54;7;8.10
+Coritiba|Sebastián Gómez;16;0;1.23
+Coritiba|Joaquín Lavega;28;5;2.93
+Coritiba|Breno Lopes;22;8;5.45
+Cruzeiro|Matheus Henrique;12;1;0.74
+Cruzeiro|Christian;19;4;1.88
+Grêmio|Erick Noriega;13;0;0.42
+Botafogo|Vitinho;15;0;1.10
+Athletico Paranaense|Lucas Esquivel;14;2;0.55
+Corinthians|André;17;3;1.30
+Athletico Paranaense|Luiz Gustavo;29;2;3.56
+Bahia|Éverton Ribeiro;15;0;1.62
+Bahia|Willian José;18;2;2.74
+Bahia|Nicolás Acevedo;28;1;1.58
+Bahia|Mateo Sanabria;15;2;2.13
+Fluminense|Guilherme Arana;18;0;0.74
+Remo|Leonel Picco;17;2;1.73
+Remo|Zé Ricardo;21;1;0.94
+Mirassol|Carlos Eduardo;12;0;0.81
+Remo|Zé Welison;17;0;0.40
+Vasco da Gama|Claudio Spinelli;36;1;4.64
+Vasco da Gama|Marino Hinestroza;12;2;0.56
+RB Bragantino|Juninho Capixaba;23;1;1.07
+RB Bragantino|Isidro Pitta;44;4;5.16
+Corinthians|Gabriel Paulista;12;1;0.60
+Mirassol|José Aldo;14;0;0.54
+Remo|Vitor Bueno;33;3;2.90
+Santos|Thaciano;17;2;2.51
+Santos|Rony;30;1;2.22
+Coritiba|Bruno Melo;12;1;1.17
+Chapecoense|Everton;12;0;1.01
+Coritiba|Lucas Ronier;30;1;1.72
+Chapecoense|Doma;13;1;0.80
+Chapecoense|Yannick Bolasie;32;2;3.14
+Flamengo|Samuel Lino;57;6;5.27
+Mirassol|Shaylon;16;1;0.57
+Mirassol|Bruno Santos;25;3;4.37
+Botafogo|Cristian Medina;25;1;3.07
+Vitória|Renê;42;8;7.01
+Botafogo|Huguinho;14;0;0.44
+Botafogo|Alex Telles;17;2;0.67
+Santos|Neymar;42;4;3.16
+Vasco da Gama|Cuiabano;29;1;1.76
+Fluminense|Jefferson Savarino;43;5;2.89
+Fluminense|Ignácio;12;2;0.95
+Palmeiras|Jhon Arias;38;2;2.52
+Fluminense|Hércules;23;1;1.17
+Fluminense|Yeferson Soteldo;13;0;0.78
+Cruzeiro|Lucas Daniel Romero;16;2;1.04
+São Paulo|Ferreira;24;4;2.58
+Coritiba|Josué;28;0;1.15
+São Paulo|Pablo Maia;19;1;0.43
+Coritiba|Jacy;13;1;1.09
+Bahia|Román Gómez;14;1;0.93
+Chapecoense|Camilo;16;0;0.54
+Chapecoense|Neto Pessôa;12;1;1.77
+Bahia|Erick;22;4;4.28
+Internacional|Félix Torres;12;1;2.71
+Remo|Jája;42;7;4.08
+Cruzeiro|Néiser Villarreal;19;2;3.52
+Palmeiras|Felipe Anderson;12;2;0.50
+Vasco da Gama|Thiago Mendes;28;5;2.17
+Vasco da Gama|Tchê Tchê;23;2;2.21
+Vasco da Gama|Adson;22;0;1.60
+Chapecoense|João Vitor;17;0;0.72
+Mirassol|João Victor;15;2;1.94
+Internacional|Alerrandro;31;3;5.99
+Atlético-MG|Alan Minda;18;1;2.37
+RB Bragantino|Eduardo Sasha;21;0;2.69
+RB Bragantino|José Herrera;32;2;1.73
+Grêmio|Juan Nardoni;13;1;1.61
+RB Bragantino|Rodriguinho;24;2;2.39
+Botafogo|Edenílson;13;3;1.86
+Botafogo|Alexander Barboza;12;1;0.60
+Botafogo|Júnior Santos;17;1;1.81
+Bahia|Rodrigo Nestor;39;0;1.60
+Bahia|Everaldo;18;4;1.77
+Fluminense|Rodrigo Castillo;23;4;2.92
+Santos|Christian Oliva;12;1;1.56
+Santos|Gabriel Bontempo;21;1;2.07
+Corinthians|Kaio;28;2;3.26
+Palmeiras|Marlon Freitas;26;2;2.05
+Mirassol|Tiquinho Soares;13;0;1.93
+Mirassol|Gabriel Pires;12;0;0.59
+São Paulo|Sabino;13;1;0.57
+Remo|Marllon;13;2;1.11
+Remo|Marcelinho;31;2;1.38
+Atlético-MG|Mateo Cassierra;27;2;4.81
+Grêmio|Francis Amuzu;32;1;2.12
+Mirassol|Edson Carioca;25;3;2.36
+Vitória|Diego Tarzia;24;1;1.39
+Remo|Bill;32;4;3.01
+Botafogo|Nahuel Ferraresi;12;1;1.14
+Vitória|Zé Vitor;21;0;0.47
+São Paulo|Artur;51;3;4.04
+Atlético-MG|Natanael;16;0;0.64
+Chapecoense|Ênio;16;1;0.78
+Flamengo|Ayrton Lucas;14;0;0.58
+Atlético-MG|Vitor Hugo;13;3;1.37
+Palmeiras|Lucas Evangelista;12;0;0.71
+Athletico Paranaense|João Cruz;27;2;2.34
+RB Bragantino|Fernando;37;3;5.38
+Botafogo|Kadir Barría;17;1;2.49
+Corinthians|Jesse Lingard;13;0;0.54
+Palmeiras|Agustín Giay;12;3;1.31
+Athletico Paranaense|Leozinho;28;5;3.78
+Fluminense|Hulk;34;5;3.83
+Grêmio|Diego Caito;15;1;0.33
+Bahia|Alejo Véliz;33;2;4.95
+Grêmio|Filip Krovinović;16;0;1.02
+Santos|Éverton;17;0;0.69
+São Paulo|Gustavo Santana;15;1;1.86
+RB Bragantino|Wallace Yan;12;0;1.24
+Cruzeiro|Felipe Morais;17;1;2.26
+Chapecoense|Túlio;24;3;2.68
+Vasco da Gama|Facundo Colidio;37;3;3.61
+Remo|Antonio Galeano;15;0;1.12
+Botafogo|Hakim Ziyech;13;0;0.39

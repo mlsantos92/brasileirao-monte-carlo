@@ -1,0 +1,79 @@
+{
+ "jogo": "Grêmio x Palmeiras",
+ "data": "06/12",
+ "local": "Mané Garrincha, Brasília (campo neutro)",
+ "xg_gremio": 0.82,
+ "xg_palmeiras": 1.33,
+ "gremio_90": 22.5,
+ "empate_90": 29.9,
+ "palmeiras_90": 47.6,
+ "gremio_prorrogacao": 4.4,
+ "palmeiras_prorrogacao": 7.7,
+ "penaltis": 17.8,
+ "gremio_penaltis": 8.8,
+ "palmeiras_penaltis": 9.0,
+ "titulo_gremio": 35.7,
+ "titulo_palmeiras": 64.3,
+ "placares": [
+  {
+   "placar": "0 x 1",
+   "prob": 14.7
+  },
+  {
+   "placar": "1 x 1",
+   "prob": 13.4
+  },
+  {
+   "placar": "0 x 0",
+   "prob": 11.9
+  },
+  {
+   "placar": "0 x 2",
+   "prob": 10.2
+  },
+  {
+   "placar": "1 x 0",
+   "prob": 9.2
+  },
+  {
+   "placar": "1 x 2",
+   "prob": 7.9
+  }
+ ],
+ "fatores": {
+  "gremio": {
+   "goleiro": "Weverton",
+   "xi": [
+    "Erick Noriega",
+    "Carlos Vinícius",
+    "Francis Amuzu",
+    "Gustavo Martins",
+    "Mathías Villasanti",
+    "Marlon",
+    "Wallace",
+    "Cristian Pavón",
+    "Fabián Balbuena",
+    "Dodi"
+   ],
+   "fase_ataque": 1.184,
+   "fase_defesa": 0.888
+  },
+  "palmeiras": {
+   "goleiro": "Carlos Miguel",
+   "xi": [
+    "Marlon Freitas",
+    "Andreas Pereira",
+    "Gustavo Gómez",
+    "Jhon Arias",
+    "Arthur",
+    "Bruno Fuchs",
+    "Agustín Giay",
+    "Lucas Evangelista",
+    "Vitor Roque",
+    "Alexander Barboza"
+   ],
+   "fase_ataque": 1.149,
+   "fase_defesa": 1.051
+  }
+ }
+}

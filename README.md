@@ -6,6 +6,8 @@ Modelo estatístico que estima a probabilidade de título, vaga e rebaixamento d
 
 > Resultados com dados públicos até a 28ª rodada. Rode `python -m brasileirao.pipeline --atualizar` para usar os placares mais recentes da fonte.
 
+> **Versão 2 (24/11/2026):** a pasta [`modelo_xg/`](modelo_xg/) traz o modelo atual, com xG e grandes chances por mando, fase recente, descanso, escalações prováveis avaliadas jogador a jogador (goleiro, finalizadores, criação e defesa), mérito dos goleiros conferido com a súmula e a simulação da final da Copa do Brasil (Grêmio x Palmeiras). Rebaixamento hoje: Internacional 95,9%, Grêmio 36,6%, Mirassol 35,8% e Corinthians 26,0%.
+
 ## Por que este projeto
 
 Trabalho com planejamento financeiro, onde o dia a dia é transformar incerteza em probabilidades e cenários. Este projeto aplica o mesmo raciocínio a um problema público, com dados abertos, para mostrar o ciclo completo de um trabalho de dados: coleta, limpeza, SQL, modelagem, **validação honesta** e comunicação dos resultados.
@@ -107,9 +109,9 @@ Saídas em `outputs/`: probabilidades por clube, previsões jogo a jogo, forças
 
 ## Próximos passos
 
-- Trocar gols por **xG e grandes chances por mando**, métricas menos ruidosas.
+- ~~Trocar gols por **xG e grandes chances por mando**, métricas menos ruidosas.~~ Feito em [`modelo_xg/`](modelo_xg/).
 - Ajustar a força da penalidade ridge, já que a validação fora da amostra mostrou um modelo cauteloso demais com os favoritos.
-- Testar descanso entre jogos e desfalques com o mesmo backtest.
+- ~~Testar descanso entre jogos e desfalques.~~ Descanso, desfalques e escalações prováveis já estão em [`modelo_xg/`](modelo_xg/); falta passá-los pelo backtest da temporada inteira.
 
 ## Sobre o uso de IA
 

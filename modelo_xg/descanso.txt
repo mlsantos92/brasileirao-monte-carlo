@@ -1,0 +1,48 @@
+2026-11-04T22:30|Athletico Paranaense|Vasco da Gama|5.9|Série A|14.0|Série A|3.1|Copa do Brasil|3.9|Copa do Brasil
+2026-11-04T22:30|Flamengo|Grêmio|6.0|Série A|14.0|Série A|3.0|Copa do Brasil|2.9|Copa do Brasil
+2026-11-05T00:30|Botafogo|Atlético-MG|7.0|Série A|14.0|Série A|3.1|Copa do Brasil|2.9|Copa do Brasil
+2026-11-05T00:30|São Paulo|Corinthians|7.0|Série A|15.0|Série A|5.1|Série A|14.0|Série A
+2026-11-05T22:30|Palmeiras|Remo|4.1|Copa do Brasil|2.9|Copa do Brasil|7.9|Série A|13.0|Série A
+2026-11-06T00:30|Cruzeiro|Bahia|7.1|Série A|13.0|Série A|8.0|Série A|13.0|Série A
+2026-11-06T23:00|Vitória|Fluminense|6.2|Série A|13.0|Série A|9.0|Série A|13.1|Série A
+2026-11-14T21:30|Mirassol|Atlético-MG|11.0|Série A|8.0|Série A|7.0|Copa do Brasil|7.0|Copa Sudamericana
+2026-11-14T23:30|Chapecoense|Vasco da Gama|11.0|Série A|4.0|Série A|6.1|Copa do Brasil|5.0|Série A
+2026-11-18T22:30|Coritiba|Santos|14.9|Série A|2.9|Série A|16.0|Série A|5.1|Série A
+2026-11-18T23:00|Remo|Chapecoense|13.0|Série A|3.8|Série A|4.0|Série A|3.0|Série A
+2026-11-18T23:30|Cruzeiro|Palmeiras|13.0|Série A|3.0|Série A|10.1|Copa do Brasil|2.8|Série A
+2026-11-18T23:30|Flamengo|Athletico Paranaense|14.0|Série A|2.8|Série A|14.0|Série A|3.8|Série A
+2026-11-19T00:30|Corinthians|Botafogo|14.0|Série A|6.9|Série A|14.0|Série A|4.9|Série A
+2026-11-19T00:30|Grêmio|Bahia|11.1|Copa do Brasil|5.0|Série A|13.0|Série A|2.8|Série A
+2026-11-19T22:30|Vasco da Gama|Internacional|5.0|Série A|3.0|Série A|15.9|Série A|4.0|Série A
+2026-11-19T22:30|Vitória|RB Bragantino|13.0|Série A|4.0|Série A|17.0|Série A|3.0|Série A
+2026-11-20T00:30|São Paulo|Fluminense|15.0|Série A|3.9|Série A|13.1|Série A|2.9|Série A
+2026-11-21T19:30|Palmeiras|Flamengo|2.8|Série A|6.2|Série A|2.8|Série A|6.2|Série A
+2026-11-21T20:30|Bahia|Coritiba|2.8|Série A|6.1|Série A|2.9|Série A|6.1|Série A
+2026-11-22T00:00|Chapecoense|Cruzeiro|3.0|Série A|6.0|Série A|3.0|Série A|6.0|Série A
+2026-11-22T19:00|Athletico Paranaense|Remo|3.8|Série A|5.2|Série A|3.8|Série A|5.2|Série A
+2026-11-22T21:30|Fluminense|Mirassol|2.9|Série A|5.1|Série A|8.0|Série A|5.1|Série A
+2026-11-22T22:30|RB Bragantino|Vasco da Gama|3.0|Série A|5.1|Série A|3.0|Série A|5.1|Série A
+2026-11-23T22:30|Internacional|Vitória|4.0|Série A|4.1|Série A|4.0|Série A|4.1|Série A
+2026-11-23T23:00|Botafogo|São Paulo|4.9|Série A|4.0|Série A|3.9|Série A|4.0|Série A
+2026-11-24T00:00|Santos|Grêmio|5.1|Série A|4.0|Série A|5.0|Série A|4.0|Série A
+2026-11-25T23:00|Atlético-MG|Corinthians|4.0|Copa Sudamericana|2.0|Série A|6.9|Série A|2.0|Série A
+2026-11-28T00:00|Atlético-MG|Vasco da Gama|2.0|Série A|4.0|Série A|5.1|Série A|4.0|Série A
+2026-11-28T00:00|Botafogo|Bahia|4.0|Série A|4.0|Série A|6.1|Série A|4.0|Série A
+2026-11-28T00:00|Chapecoense|Palmeiras|6.0|Série A|4.0|Série A|6.2|Série A|0.8|Copa Libertadores
+2026-11-28T00:00|Corinthians|Grêmio|2.0|Série A|4.0|Série A|4.0|Série A|4.0|Série A
+2026-11-28T00:00|Coritiba|Flamengo|6.1|Série A|4.0|Série A|6.2|Série A|4.0|Série A
+2026-11-28T00:00|Fluminense|Cruzeiro|5.1|Série A|4.0|Série A|6.0|Série A|4.0|Série A
+2026-11-28T00:00|Internacional|RB Bragantino|4.1|Série A|4.0|Série A|5.1|Série A|4.0|Série A
+2026-11-28T00:00|Mirassol|Athletico Paranaense|5.1|Série A|4.0|Série A|5.2|Série A|4.0|Série A
+2026-11-28T00:00|São Paulo|Remo|4.0|Série A|4.0|Série A|5.2|Série A|4.0|Série A
+2026-11-28T00:00|Vitória|Santos|4.1|Série A|4.0|Série A|4.0|Série A|4.0|Série A
+2026-12-02T00:00|Athletico Paranaense|São Paulo|4.0|Série A|||4.0|Série A||
+2026-12-02T00:00|Bahia|Atlético-MG|4.0|Série A|||4.0|Série A||
+2026-12-02T00:00|Cruzeiro|Internacional|4.0|Série A|||4.0|Série A||
+2026-12-02T00:00|Flamengo|Chapecoense|4.0|Série A|||4.0|Série A||
+2026-12-02T00:00|Grêmio|Mirassol|4.0|Série A|||4.0|Série A||
+2026-12-02T00:00|Palmeiras|Coritiba|3.2|Copa Libertadores|||4.0|Série A||
+2026-12-02T00:00|RB Bragantino|Fluminense|4.0|Série A|||4.0|Série A||
+2026-12-02T00:00|Remo|Corinthians|4.0|Série A|||4.0|Série A||
+2026-12-02T00:00|Santos|Botafogo|4.0|Série A|||4.0|Série A||
+2026-12-02T00:00|Vasco da Gama|Vitória|4.0|Série A|||4.0|Série A||
