@@ -1,0 +1,20 @@
+Grêmio;243;45.49;40
+Fluminense;238;40.56;37
+Botafogo;251;39.13;41
+Cruzeiro;245;42.15;38
+São Paulo;193;34.46;31
+Flamengo;195;23.32;19
+Corinthians;204;35.63;36
+Bahia;283;44.49;36
+Mirassol;264;45.43;43
+Vasco da Gama;193;35.59;39
+Atlético-MG;264;34.87;33
+Palmeiras;184;24.23;20
+Athletico Paranaense;192;26.75;27
+Internacional;195;32.28;33
+Remo;248;49.85;44
+Vitória;265;38.49;35
+Santos;228;39.92;42
+Chapecoense;293;58.62;58
+RB Bragantino;193;35.86;34
+Coritiba;273;42.71;37

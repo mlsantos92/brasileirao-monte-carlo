@@ -1,0 +1,212 @@
+Fluminense|John Kennedy;21.80;6.80;4.09
+Grêmio|Tetê;20.30;1.10;1.69
+Fluminense|Martinelli;15.30;0.00;0.58
+Grêmio|Carlos Vinícius;33.60;6.30;5.12
+Fluminense|Kevin Serna;23.20;3.40;4.66
+Fluminense|Agustín Canobbio;23.20;3.40;2.62
+Fluminense|Luciano Acosta;21.60;2.80;2.01
+Grêmio|Cristian Pavón;17.90;2.10;0.91
+Grêmio|Gustavo Martins;13.10;2.40;1.80
+Grêmio|José Enamorado;13.60;0.00;1.00
+Cruzeiro|Matheus Pereira;46.60;5.90;5.45
+Botafogo|Arthur Cabral;40.50;4.60;3.46
+Cruzeiro|Kaio Jorge;31.00;3.90;4.43
+Cruzeiro|Kaiki;13.10;0.00;0.72
+Cruzeiro|Wanderson;11.40;1.70;0.80
+Botafogo|Danilo;38.40;6.30;2.82
+Cruzeiro|Gérson;13.60;0.00;1.39
+Cruzeiro|Keny Arroyo;36.10;3.40;1.62
+Botafogo|Álvaro Montoro;18.20;1.00;1.10
+Botafogo|Matheus Martins;29.50;1.90;1.98
+Flamengo|Jorge Carrascal;26.40;4.20;3.18
+Flamengo|Gonzalo Plata;20.40;2.20;2.25
+São Paulo|Luciano;49.00;5.80;5.96
+São Paulo|Marcos Antônio;14.00;0.00;0.85
+Flamengo|Pedro;40.70;8.00;8.69
+São Paulo|Damián Bobadilla;15.40;0.00;1.17
+Flamengo|Bruno Henrique;11.30;1.10;1.22
+Flamengo|Giorgian De Arrascaeta;33.10;1.80;3.82
+Bahia|Ademir;21.90;1.00;1.83
+Bahia|Luciano Juba;20.10;4.50;0.88
+Corinthians|Breno Bidon;17.70;2.00;1.53
+Corinthians|Yuri Alberto;35.70;1.40;3.91
+Corinthians|Rodrigo Garro;39.60;2.10;2.87
+Bahia|Jean Lucas;22.00;2.80;2.49
+Corinthians|Matheuzinho;17.70;1.00;1.10
+Bahia|Erick Pulga;31.80;2.40;2.72
+Corinthians|Bidu;22.10;2.40;0.92
+Corinthians|Memphis Depay;16.00;1.00;2.23
+Corinthians|Raniele;17.60;2.00;0.95
+Corinthians|Gustavo Henrique;18.70;3.40;2.19
+Bahia|David Duarte;17.10;2.00;0.95
+Corinthians|Vitinho;11.50;0.00;0.88
+Bahia|Cristian Olivera;25.60;0.70;1.98
+Vasco da Gama|Andrés Gómez;67.20;3.80;3.45
+Mirassol|Alesson;35.60;0.00;2.84
+Mirassol|Neto;12.40;0.00;0.39
+Vasco da Gama|Johan Rojas;28.00;0.00;1.50
+Mirassol|Negueba;17.50;1.70;0.65
+Vasco da Gama|Philippe Coutinho;11.00;1.00;0.89
+Mirassol|Igor Formiga;24.20;3.70;2.60
+Mirassol|Willian Machado;11.90;0.70;0.48
+Mirassol|Eduardo;19.50;5.40;2.71
+Mirassol|Reinaldo;34.50;0.00;1.28
+Mirassol|Nathan Fogaça;15.80;1.70;2.99
+Palmeiras|José López;42.90;6.80;2.95
+Atlético-MG|Hulk;15.20;0.40;1.33
+Palmeiras|Mauricio;33.60;4.20;3.89
+Palmeiras|Andreas Pereira;25.40;0.70;1.45
+Atlético-MG|Renan Lodi;31.10;0.70;1.54
+Palmeiras|Allan;20.90;1.40;1.30
+Atlético-MG|Victor Hugo;23.50;2.70;2.68
+Palmeiras|Ramón Sosa;18.10;2.10;1.45
+Palmeiras|Gustavo Gómez;15.90;1.80;1.59
+Palmeiras|Vitor Roque;21.80;1.70;1.92
+Atlético-MG|Gustavo Scarpa;10.70;1.00;0.35
+Atlético-MG|Tomás Cuello;37.00;3.50;3.70
+Atlético-MG|Reinier;20.80;3.10;3.16
+Athletico Paranaense|Stiven Mendoza;24.00;3.40;1.36
+Internacional|Bruno Gomes;14.90;0.00;0.75
+Internacional|Alexandro Bernabéi;44.50;4.10;2.71
+Athletico Paranaense|Kevin Viveros;44.30;9.60;8.21
+Internacional|Rafael Borré;23.20;1.40;4.15
+Internacional|Vitinho;40.60;3.40;3.78
+Internacional|Bruno Henrique;18.60;1.00;1.43
+Internacional|Alan Patrick;25.90;3.40;2.39
+Internacional|Johan Carbonero;46.00;5.10;4.47
+Internacional|Braian Aguirre;22.40;0.70;1.09
+Remo|Patrick de Paula;12.30;0.00;0.72
+Remo|Alef Manga;34.80;3.80;2.80
+Vitória|Renato Kayzer;17.80;3.10;2.61
+Vitória|Matheuzinho;18.30;1.80;1.24
+Remo|Yago Pikachu;19.10;1.50;1.24
+Vitória|Erick;23.90;2.50;1.32
+Vitória|Gabriel Baralhas;14.10;1.40;1.03
+Vitória|Jamerson;11.10;0.00;0.34
+Remo|Patrick;14.40;0.00;0.64
+Chapecoense|Giovanni Augusto;11.30;1.70;0.44
+Santos|Gabriel Menino;14.30;0.70;0.78
+Chapecoense|Marcinho;20.10;3.50;1.72
+Santos|Álvaro Barreal;33.90;2.80;2.02
+Santos|Benjamín Rollheiser;18.40;1.40;1.30
+Flamengo|Erick Pulgar;11.90;1.70;0.49
+Internacional|Paulinho;11.50;0.00;0.56
+Flamengo|Lucas Paquetá;26.60;3.60;1.99
+Flamengo|Léo Pereira;13.90;0.70;1.02
+Vasco da Gama|Cauan Barros;11.50;1.00;0.67
+Vasco da Gama|Nuno Moreira;20.60;1.00;1.96
+Vasco da Gama|José Rodriguez;31.70;1.40;2.47
+Chapecoense|Maurício Garcez;18.80;2.10;2.11
+Vasco da Gama|Robert Renan;11.60;0.70;0.88
+Vasco da Gama|David;18.40;2.80;2.31
+Santos|Gabriel Barbosa;51.90;9.20;7.66
+São Paulo|Jonathan Calleri;42.00;5.80;6.03
+Palmeiras|Murilo;12.30;0.40;1.24
+Vitória|Luan Cândido;11.30;0.00;1.09
+RB Bragantino|Gustavo Marques;14.90;0.70;1.12
+RB Bragantino|Henry Mosquera;22.10;0.00;1.09
+RB Bragantino|Gabriel;11.50;1.00;0.32
+Atlético-MG|Bernard;17.50;3.80;2.49
+RB Bragantino|Lucas Barbosa;45.90;3.60;4.22
+Coritiba|Pedro Rocha;41.40;4.90;5.70
+Coritiba|Sebastián Gómez;13.00;0.00;0.86
+Coritiba|Joaquín Lavega;21.70;3.80;2.20
+Coritiba|Breno Lopes;16.30;5.30;3.69
+Cruzeiro|Christian;13.60;2.50;1.31
+Grêmio|Erick Noriega;11.20;0.00;0.38
+Botafogo|Vitinho;11.70;0.00;0.88
+Athletico Paranaense|Lucas Esquivel;10.70;1.70;0.45
+Corinthians|André;13.10;2.10;0.98
+Athletico Paranaense|Luiz Gustavo;18.20;0.80;1.74
+Bahia|Éverton Ribeiro;13.20;0.00;1.39
+Bahia|Willian José;13.80;1.70;2.17
+Bahia|Nicolás Acevedo;20.50;0.70;1.14
+Bahia|Mateo Sanabria;12.90;1.70;1.86
+Fluminense|Guilherme Arana;14.70;0.00;0.61
+Remo|Leonel Picco;12.20;1.70;1.41
+Remo|Zé Ricardo;14.70;0.40;0.58
+Mirassol|Carlos Eduardo;10.50;0.00;0.68
+Remo|Zé Welison;14.30;0.00;0.35
+Vasco da Gama|Claudio Spinelli;29.70;1.00;3.90
+RB Bragantino|Juninho Capixaba;14.00;0.70;0.69
+RB Bragantino|Isidro Pitta;30.20;2.50;3.34
+Mirassol|José Aldo;12.80;0.00;0.50
+Remo|Vitor Bueno;21.30;1.80;1.87
+Santos|Thaciano;13.40;1.40;1.59
+Santos|Rony;23.40;1.00;1.58
+Chapecoense|Everton;10.20;0.00;0.82
+Coritiba|Lucas Ronier;25.50;0.70;1.39
+Chapecoense|Yannick Bolasie;20.90;2.00;2.17
+Flamengo|Samuel Lino;39.30;4.20;3.67
+Mirassol|Shaylon;14.50;0.70;0.53
+Mirassol|Bruno Santos;20.50;2.40;3.70
+Botafogo|Cristian Medina;19.00;1.00;2.19
+Vitória|Renê;31.20;6.80;5.47
+Botafogo|Huguinho;10.10;0.00;0.31
+Botafogo|Alex Telles;13.70;2.00;0.55
+Santos|Neymar;34.20;3.70;2.43
+Vasco da Gama|Cuiabano;25.10;1.00;1.60
+Fluminense|Jefferson Savarino;31.90;2.60;1.98
+Fluminense|Ignácio;11.10;1.70;0.88
+Palmeiras|Jhon Arias;29.30;2.00;1.85
+Fluminense|Hércules;19.40;1.00;1.06
+Fluminense|Yeferson Soteldo;10.90;0.00;0.70
+Cruzeiro|Lucas Daniel Romero;12.40;1.10;0.70
+São Paulo|Ferreira;19.50;2.80;1.95
+Coritiba|Josué;22.90;0.00;0.92
+São Paulo|Pablo Maia;17.80;1.00;0.40
+Coritiba|Jacy;11.50;0.70;1.00
+Bahia|Román Gómez;11.60;0.70;0.69
+Chapecoense|Camilo;12.40;0.00;0.40
+Bahia|Erick;16.90;2.50;2.85
+Remo|Jája;35.10;5.50;3.22
+Cruzeiro|Néiser Villarreal;13.60;1.40;2.73
+Palmeiras|Felipe Anderson;11.10;1.70;0.42
+Vasco da Gama|Thiago Mendes;23.20;4.70;1.83
+Vasco da Gama|Tchê Tchê;19.10;1.40;1.71
+Vasco da Gama|Adson;17.20;0.00;1.01
+Chapecoense|João Vitor;12.50;0.00;0.53
+Mirassol|João Victor;12.90;1.10;1.48
+Internacional|Alerrandro;23.80;2.40;4.52
+Atlético-MG|Alan Minda;14.10;0.70;1.91
+RB Bragantino|Eduardo Sasha;15.60;0.00;1.81
+RB Bragantino|José Herrera;21.50;1.40;1.13
+Grêmio|Juan Nardoni;10.60;1.00;1.42
+RB Bragantino|Rodriguinho;15.00;1.10;1.20
+Botafogo|Júnior Santos;13.10;0.70;1.32
+Bahia|Rodrigo Nestor;29.10;0.00;1.09
+Bahia|Everaldo;14.70;3.10;1.41
+Fluminense|Rodrigo Castillo;18.50;2.80;2.23
+Santos|Christian Oliva;10.20;1.00;1.46
+Santos|Gabriel Bontempo;15.90;0.70;1.50
+Corinthians|Kaio;23.20;1.40;2.44
+Palmeiras|Marlon Freitas;21.50;2.00;1.53
+Mirassol|Tiquinho Soares;11.20;0.00;1.77
+Mirassol|Gabriel Pires;11.10;0.00;0.56
+São Paulo|Sabino;10.90;1.00;0.47
+Remo|Marllon;10.60;2.00;1.02
+Remo|Marcelinho;23.50;1.70;1.04
+Atlético-MG|Mateo Cassierra;21.30;1.10;3.69
+Grêmio|Francis Amuzu;26.30;0.70;1.83
+Mirassol|Edson Carioca;21.40;3.00;2.09
+Vitória|Diego Tarzia;19.50;0.70;1.15
+Remo|Bill;22.40;3.10;2.11
+Vitória|Zé Vitor;16.80;0.00;0.39
+São Paulo|Artur;44.70;2.70;3.51
+Chapecoense|Ênio;12.10;0.70;0.53
+Atlético-MG|Vitor Hugo;11.80;2.70;1.17
+Athletico Paranaense|João Cruz;19.20;1.10;1.74
+RB Bragantino|Fernando;25.30;2.10;3.42
+Botafogo|Kadir Barría;13.10;0.40;1.59
+Corinthians|Jesse Lingard;12.10;0.00;0.53
+Athletico Paranaense|Leozinho;18.70;3.50;2.82
+Fluminense|Hulk;25.30;3.80;2.88
+Grêmio|Diego Caito;13.20;1.00;0.30
+Bahia|Alejo Véliz;21.30;0.80;2.78
+Grêmio|Filip Krovinović;13.60;0.00;0.88
+Santos|Éverton;13.10;0.00;0.53
+São Paulo|Gustavo Santana;12.60;1.00;1.56
+Chapecoense|Túlio;17.10;1.80;1.66
+Vasco da Gama|Facundo Colidio;24.10;2.10;2.37
+Atlético-MG|Thiago Borbas;10.00;2.00;1.10
+Botafogo|Hakim Ziyech;10.30;0.00;0.30

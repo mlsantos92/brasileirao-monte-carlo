@@ -1,0 +1,42 @@
+1ª Botafogo 4x0 Cruzeiro: placar 4x0→3x0
+1ª Vitória 2x0 Remo: xG Vitória 3.12→2.91; grandes chances Vitória 6→5.6
+2ª Vasco da Gama 1x1 Chapecoense: xG Vasco da Gama 4.81→2.91; grandes chances Vasco da Gama 9→5.6
+2ª Palmeiras 5x1 Vitória: placar 5x1→4x1
+2ª Grêmio 5x3 Botafogo: xG Grêmio 3.46→2.91; grandes chances Grêmio 8→5.6
+3ª Atlético-MG 3x3 Remo: grandes chances Atlético-MG 9→5.6
+8ª Internacional 2x0 Chapecoense: xG Internacional 3.69→2.91
+9ª Chapecoense 0x4 Atlético-MG: placar 0x4→0x2
+11ª Cruzeiro 2x1 RB Bragantino: grandes chances Cruzeiro 6→5.6
+12ª Chapecoense 1x4 Botafogo: placar 1x4→1x3
+13ª Atlético-MG 0x4 Flamengo: placar 0x4→0x2
+13ª Athletico Paranaense 3x1 Vitória: xG Athletico Paranaense 3.63→2.91; grandes chances Athletico Paranaense 7→5.6
+15ª Coritiba 2x2 Internacional: xG Internacional 3.35→2.91; grandes chances Internacional 6→5.6
+16ª Santos 0x3 Coritiba: placar 0x3→0x2
+16ª RB Bragantino 2x0 Vitória: xG RB Bragantino 2.95→2.91
+17ª Vasco da Gama 0x3 RB Bragantino: xG RB Bragantino 3.78→2.91; placar 0x3→0x2
+17ª Cruzeiro 2x1 Chapecoense: xG Cruzeiro 2.96→2.91
+19ª Botafogo 2x1 Santos: xG Botafogo 2.97→2.91
+19ª Chapecoense 0x4 Flamengo: placar 0x4→0x2
+20ª Athletico Paranaense 2x0 Internacional: grandes chances Athletico Paranaense 8→5.6
+23ª Vasco da Gama 0x3 Santos: placar 0x3→0x2
+23ª Mirassol 1x5 Flamengo: grandes chances Flamengo 8→5.6; placar 1x5→1x3
+23ª Athletico Paranaense 1x1 RB Bragantino: grandes chances Athletico Paranaense 7→5.6
+24ª Vitória 0x2 Bahia: xG Bahia 4.32→2.91; grandes chances Bahia 7→5.6
+25ª Vasco da Gama 3x1 Cruzeiro: xG Vasco da Gama 3.24→2.91
+25ª Remo 2x3 Coritiba: xG Remo 3.27→2.91
+26ª RB Bragantino 2x3 Bahia: grandes chances Bahia 6→5.6
+26ª Cruzeiro 3x1 Athletico Paranaense: xG Cruzeiro 3.07→2.91
+26ª Coritiba 1x2 Mirassol: grandes chances Mirassol 7→5.6
+27ª Flamengo 2x1 Corinthians: grandes chances Flamengo 6→5.6
+27ª Bahia 2x1 Remo: grandes chances Bahia 7→5.6
+28ª Flamengo 2x1 RB Bragantino: xG Flamengo 3.15→2.91
+28ª Vasco da Gama 5x0 Coritiba: xG Vasco da Gama 3.66→2.91; placar 5x0→3x0
+28ª Atlético-MG 1x1 Chapecoense: grandes chances Atlético-MG 6→5.6
+29ª Fluminense 4x0 Coritiba: placar 4x0→3x0
+29ª Cruzeiro 2x0 São Paulo: xG Cruzeiro 3.16→2.91; grandes chances Cruzeiro 7→5.6
+29ª Vitória 4x0 Chapecoense: placar 4x0→3x0
+29ª Remo 1x1 Grêmio: xG Grêmio 2.98→2.91; grandes chances Grêmio 6→5.6
+30ª RB Bragantino 4x2 Cruzeiro: xG RB Bragantino 3→2.91; xG Cruzeiro 3.38→2.91; grandes chances Cruzeiro 6→5.6
+30ª Chapecoense 1x4 Athletico Paranaense: grandes chances Chapecoense 6→5.6; placar 1x4→1x3
+31ª Bahia 0x3 Flamengo: grandes chances Flamengo 8→5.6; placar 0x3→0x2
+32ª Palmeiras 2x0 RB Bragantino: xG Palmeiras 3.82→2.91; grandes chances Palmeiras 6→5.6

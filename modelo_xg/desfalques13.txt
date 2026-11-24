@@ -1,0 +1,84 @@
+Mirassol|Negueba|injury|Out for season||rightwinger|782|7.37|0.70|1.83|0
+Atlético-MG|Tomás Pérez|suspension|3º amarelo||centerdefensivemidfielder|1059|6.81|0.20|0.25|136
+Atlético-MG|Vitão|suspension|seleção||centerback|776|7.07|0.58|0.14|326
+Atlético-MG|Kauã Pascini|suspension|seleção||leftback|777|6.91|0.58|0.99|242
+Atlético-MG|Victor Hugo|injury|About 1-2 weeks||centerattackingmidfielder|1872|6.99|4.15|2.06|326
+Atlético-MG|Reinier|injury|Out for season||striker|1176|6.87|4.87|0.94|272
+Atlético-MG|Thiago Borbas|injury|Early November 2026||striker|305|7.02|1.10|0.17|149
+Chapecoense|Maurício Garcez|injury|Mid November 2026||leftwinger|1083|6.77|3.17|0.75|377
+Chapecoense|Rafael Carvalheira|injury|Out for season||centermidfielder|895|6.4|0.70|0.51|0
+Chapecoense|Robert|injury|Late November 2026||centermidfielder|15|6.64|0|0|0
+Vasco da Gama|Cauan Barros|injury|About 1-2 weeks||centerdefensivemidfielder|1304|6.95|1.70|0.56|0
+Vasco da Gama|Carlos Cuesta|injury|Mid November 2026||centerback|1372|6.72|0.43|0.53|0
+Coritiba|Lucas Ronier|injury|Out for season||rightwinger|1411|7.11|2.14|1.16|0
+Santos|Álvaro Barreal|suspension|3º amarelo||leftwinger|1797|7.07|2.69|2.11|386
+Santos|Thaciano|injury|Mid November 2026||striker|683|6.44|2.50|0.59|4
+Santos|Willian Arão|injury|About 1-2 weeks||centerdefensivemidfielder|1505|6.91|0.58|0.58|188
+Santos|Lucas Veríssimo|injury|Late November 2026||centerback|1703|6.78|1.68|0.15|353
+Santos|Gonzalo Escobar|injury|Doubtful||leftback|2017|7.15|0.38|0.96|249
+Santos|Gabriel Brazão|injury|Out for season||keeper_long|2160|6.82|0|0.02|0
+Santos|Vinicius Lira|injury|Out for season||leftback|353|6.38|0.09|0.48|0
+Remo|Poveda|injury|Early November 2026||striker|176|5.85|0.11|0.06|10
+Remo|Jáderson|injury|Early November 2026||rightwinger|221|6.16|0.10|0.07|16
+Remo|Matheus Felipe|injury|Mid November 2026||centerback|270|6.74|0|0.01|0
+Remo|João Lucas|injury|Early November 2026||rightback|483|6.6|0.40|0.28|0
+Cruzeiro|João Marcelo|injury|Out for season||centerback|1261|7.03|0.57|0.31|397
+Cruzeiro|Felipe Morais|injury|Back in training||centerattackingmidfielder|342|6.9|2.26|0.47|213
+Cruzeiro|Luis Sinisterra|injury|Late December 2026||leftwinger|348|6.68|2.32|0.71|0
+Cruzeiro|Gabriel Pec|injury|Mid November 2026||rightwinger|62|6.76|0.47|0.00|0
+Cruzeiro|Jonathan Jesus|suspension|3º amarelo||centerback|1969|7.32|0.46|0.66|720
+Cruzeiro|Kauã Moraes|suspension|3º amarelo||rightback|463|6.9|1.27|0.47|8
+Palmeiras|Paulinho|injury|About 1-2 weeks|||157|6.59|0.83|0.22|13
+Palmeiras|Jefté|injury|Mid December 2026||leftback|242|6.61|0.05|0.18|0
+Flamengo|Lucas Paquetá|injury|About 1-2 weeks||centerattackingmidfielder|1500|7.39|3.46|2.77|217
+Flamengo|Alex Sandro|injury|About 1-2 weeks||leftback|1570|6.82|0.08|1.55|310
+Flamengo|Danilo|injury|Mid November 2026||centerback|620|6.78|0.34|0.22|91
+Athletico Paranaense|Kevin Viveros|suspension|expulso||striker|2811|7.26|15.24|1.85|526
+Athletico Paranaense|Dantas|suspension|3º amarelo||centerback|524|6.82|0.07|0.03|180
+Athletico Paranaense|Claudinho|injury|Out for season||left_wing_back|503|6.87|0.44|0.35|81
+Corinthians|Yuri Alberto|stjd|1|suspenso 2 jogos pelo STJD (o automático cumprido contra o Botafogo em 18/11); falta Atlético-MG x Corinthians|striker|1909|6.86|6.57|1.81|486
+Corinthians|Rodrigo Garro|injury|Early December 2026||centerattackingmidfielder|2168|7.19|3.67|6.04|465
+Corinthians|Alex Santana|injury|Mid November 2026|||9|0|0|0|0
+Corinthians|Gabriel Paulista|injury|About 1-2 weeks||centerback|2023|6.96|0.85|0.34|259
+Corinthians|Raniele|injury|Late November 2026||centerdefensivemidfielder|1989|6.91|1.26|0.45|263
+Corinthians|Zakaria Labyad|injury|Out for season||leftwinger|224|6.63|0.33|0.57|0
+Corinthians|Kayke|injury|Out for season||leftwinger|231|6.43|0.06|0.17|0
+Botafogo|Danilo|injury|About 1-2 weeks||centerdefensivemidfielder|2102|7.32|3.09|2.30|428
+Botafogo|Arthur Chaves|injury|About a week||centerback|180|6.75|0.12|0.01|90
+Botafogo|Jordan Barrera|injury|Out for season||leftwinger|395|6.48|1.56|0.38|0
+Grêmio|Cristian Pavón|injury|About 1-2 weeks||rightback|2182|7.35|1.26|5.23|365
+Grêmio|Diego Caito|injury|About 1-2 weeks||rightback|720|6.72|0.34|0.31|159
+Grêmio|Danilo|injury|About 1-2 weeks||centerdefensivemidfielder|341|6.46|0.21|0.22|254
+Grêmio|Juan Nardoni|injury|Early November 2026||centermidfielder|1074|6.47|1.63|0.42|19
+Bahia|Marco Moreno|injury|A few days||centerback|303|6.5|0.04|0.03|303
+Bahia|Léo Vieira|injury|Out for season||keeper_long|1394|7.2|0|0.00|0
+Internacional|Alan Patrick|injury|Doubtful||centerattackingmidfielder|1934|7.18|3.38|5.44|396
+Internacional|Matheus Cunha|injury|About 1-2 weeks||keeper_long|1380|6.33|0|0.02|15
+Internacional|Anthoni|injury|About a week||keeper_long|1093|6.52|0|0.01|270
+Internacional|Antonio Sanabria|injury|Mid November 2026||striker|83|6.09|0.08|0.02|11
+Internacional|Kayky|injury|Late November 2026|||69|6.36|0|0|0
+Internacional|Benjamin Arhin|injury|Mid November 2026||centerdefensivemidfielder|1|0|0|0|0
+Internacional|Sergio Rochet|injury|Mid November 2026||keeper_long|990|6.53|0|0.01|0
+Vitória|Fabiano Souza|injury|Out for season||rightback|186|5.75|0.03|0.03|0
+Vitória|Nathan Mendes|injury|Out for season||rightback|1063|6.85|0.11|0.48|0
+Vitória|Camutanga|injury|Mid November 2026||centerback|600|6.65|0.29|0.11|0
+Vitória|Riccieli|injury|Mid November 2026||centerback|90|6.06|0.03|0.00|0
+Vitória|Edu|injury|Late November 2026||centerback|71|7|0|0.00|0
+Vitória|Dudu|injury|Out for season|||169|7.01|0.31|0.09|0
+RB Bragantino|Lucas Barbosa|suspension|3º amarelo||rightwinger|2717|7.28|6.84|5.00|552
+RB Bragantino|José Hurtado|injury|About 1-2 weeks||rightback|1241|6.98|0.75|1.12|0
+RB Bragantino|Rodriguinho|injury|About a week||centerdefensivemidfielder|876|6.76|2.53|0.66|0
+RB Bragantino|Davi Gomes|injury|Mid December 2026|||23|6.81|0|0|0
+São Paulo|Luciano|suspension|3º amarelo||striker|2020|7.13|7.39|2.81|381
+São Paulo|Ferreira|suspension|3º amarelo||leftwinger|828|6.87|2.60|1.67|37
+São Paulo|Newton|suspension|3º amarelo||centerback|1088|6.7|0.81|0.25|502
+São Paulo|Sabino|injury|Out for season||centerback|1844|7.14|0.57|0.43|263
+São Paulo|Marcos Antônio|injury|About 1-2 weeks||centerdefensivemidfielder|1882|7.07|1.98|2.87|319
+São Paulo|Domingos Duarte|injury|Out for season||centerback|399|7.3|0.26|0.10|0
+São Paulo|Nicolas|injury|Early December 2026|||1|0|0|0|0
+São Paulo|Aurélio Buta|injury|Late November 2026||rightback|71|7.12|0|0.01|0
+Fluminense|Julián Millán|injury|Early November 2026||centerback|789|6.75|0.13|0.24|270
+Fluminense|Martinelli|injury|Out for season||centerdefensivemidfielder|1808|7.32|0.79|1.50|258
+Fluminense|Alisson|injury|Late November 2026||centerdefensivemidfielder|254|6.18|0.03|0.15|0
+Fluminense|John Kennedy|injury|Out for season||striker|1128|7.02|6.58|0.63|0
+Mirassol|Bruno Santos|stjd|0.9|suspenso pelo STJD por 4 jogos (cotovelada em André Ramalho); cumpriu mais um contra o Fluminense em 22/11, falta 1; cabe recurso com pedido de efeito suspensivo|striker|1114|6.6|4.59|0.59|352
